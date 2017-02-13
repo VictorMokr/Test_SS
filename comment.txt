@@ -1,0 +1,7 @@
+Pre-conditions:
+
+1.Environment - Chrome ver 56.0.2924.87 (64-bit); Eclipse neon
+
+2.Add jars (library) - "selenium-server-standalone-3.0.0"
+
+3.Save file "chromedriver" into C://
